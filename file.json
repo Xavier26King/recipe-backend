@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Tomato Pasta",
+    "cuisineType": "Italian",
+    "ingredients": ["Pasta", "Tomato", "Onion", "Garlic", "Basil"],
+    "steps": ["Boil pasta", "Make tomato sauce", "Mix and serve"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pasta-2291908_1280.jpg"
+  },
+  {
+    "name": "Chicken Curry",
+    "cuisineType": "Indian",
+    "ingredients": ["Chicken", "Onion", "Garlic", "Ginger", "Spices"],
+    "steps": ["Marinate chicken", "Sauté onion and spices", "Add chicken and cook"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/07/14/09/29/chicken-6465555_1280.jpg"
+  },
+  {
+    "name": "Veg Stir Fry",
+    "cuisineType": "Chinese",
+    "ingredients": ["Bell Pepper", "Carrot", "Broccoli", "Soy Sauce", "Garlic"],
+    "steps": ["Chop vegetables", "Stir fry in wok", "Add soy sauce and serve"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/06/29/18/29/thaifood-2455628_1280.jpg"
+  },
+  {
+    "name": "Tacos",
+    "cuisineType": "Mexican",
+    "ingredients": ["Taco Shells", "Chicken", "Lettuce", "Tomato", "Cheese"],
+    "steps": ["Cook chicken", "Prepare filling", "Assemble tacos"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2019/09/22/09/47/tacos-4495602_1280.jpg"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "cuisineType": "Indian",
+    "ingredients": ["Paneer", "Tomato", "Butter", "Cream", "Spices"],
+    "steps": ["Prepare tomato gravy", "Add paneer", "Cook with cream"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/03/02/12/42/paneer-7043098_1280.jpg"
+  },
+  {
+    "name": "Margherita Pizza",
+    "cuisineType": "Italian",
+    "ingredients": ["Pizza Base", "Tomato Sauce", "Mozzarella", "Basil"],
+    "steps": ["Spread sauce", "Add cheese and basil", "Bake"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
+  },
+  {
+    "name": "Chow Mein",
+    "cuisineType": "Chinese",
+    "ingredients": ["Noodles", "Cabbage", "Carrot", "Soy Sauce", "Garlic"],
+    "steps": ["Boil noodles", "Stir fry vegetables", "Mix noodles and sauce"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2019/05/31/01/53/chowmein-4241265_1280.jpg"
+  },
+  {
+    "name": "Butter Chicken",
+    "cuisineType": "Indian",
+    "ingredients": ["Chicken", "Tomato", "Butter", "Cream", "Spices"],
+    "steps": ["Make buttery tomato gravy", "Add chicken", "Simmer and serve"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/11/24/18/09/butter-chicken-7614835_1280.jpg"
+  },
+  {
+    "name": "Lasagna",
+    "cuisineType": "Italian",
+    "ingredients": ["Lasagna Sheets", "Tomato Sauce", "Cheese", "Minced Meat", "Herbs"],
+    "steps": ["Layer sauce and pasta", "Bake with cheese", "Serve hot"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/12/11/22/41/lasagna-1900529_960_720.jpg"
+  },
+  {
+    "name": "Sushi",
+    "cuisineType": "Japanese",
+    "ingredients": ["Sushi Rice", "Nori", "Fish", "Soy Sauce", "Wasabi"],
+    "steps": ["Prepare rice", "Place on nori", "Add fillings and roll", "Slice and serve"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/01/06/19/31/japanese-sushi-4746059_1280.jpg"
+  },
+  {
+    "name": "Falafel Wrap",
+    "cuisineType": "Mediterranean",
+    "ingredients": ["Chickpeas", "Garlic", "Parsley", "Spices", "Pita Bread"],
+    "steps": ["Blend chickpeas mix", "Fry into balls", "Wrap in pita with veggies"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/05/22/01/44/falafel-5203363_1280.jpg"
+  },
+  {
+    "name": "Cheeseburger",
+    "cuisineType": "American",
+    "ingredients": ["Beef Patty", "Cheese", "Buns", "Lettuce", "Tomato"],
+    "steps": ["Grill patty", "Assemble with cheese and toppings", "Serve with fries"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/05/12/17/05/hamburger-7191900_1280.jpg"
+  },
+  {
+    "name": "Pad Thai",
+    "cuisineType": "Thai",
+    "ingredients": ["Rice Noodles", "Shrimp", "Egg", "Tofu", "Peanuts"],
+    "steps": ["Soak noodles", "Stir fry with ingredients", "Add sauce and serve"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/08/02/08/22/pad-thai-6516071_1280.jpg"
+  },
+  {
+    "name": "Spring Rolls",
+    "cuisineType": "Chinese",
+    "ingredients": ["Spring Roll Wrappers", "Cabbage", "Carrot", "Soy Sauce", "Garlic"],
+    "steps": ["Prepare filling", "Wrap in sheets", "Deep fry until golden"],
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/11/01/15/52/spring-roll-6760871_1280.jpg"
+  }
+]
